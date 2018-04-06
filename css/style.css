@@ -17,7 +17,7 @@
 .reservation-form-container {
 	position: relative;
 	height: 100%;
-	background: url('https://github.com/Shannon1216/Unit-10-Site-Reservation/blob/master/images/sandwiches.jpg');
+	background: #a32020;
 	background-size: cover;
 	background-position: center;
 }
