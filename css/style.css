@@ -23,11 +23,15 @@
 }
 
 .reservation-form {
-	position: absolute;
+	
 	top: 50%;
 	transform: translateY(-50%);
 }
 
 .restaurant-locator {
 	height: 50vh;
+}
+form {margin-top: 5em;}
+ul {
+	list-style: none;
 }
