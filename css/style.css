@@ -13,7 +13,6 @@
 	height: 25vh;
 }
 
-/* add a deli pattern background*/
 .reservation-form-container {
 	position: relative;
 	height: 100%;
@@ -31,7 +30,7 @@
 .restaurant-locator {
 	height: 50vh;
 }
-form {margin-top: 5em;}
-ul {
-	list-style: none;
+form {
+	margin-top: 6em;
 }
+
